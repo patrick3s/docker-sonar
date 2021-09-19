@@ -1,0 +1,2 @@
+flutter,false,sonar-flutter-plugin-0.3.2.jar|ef3f09149e110084637a01bdd9f84a46
+scmgit,false,sonar-scm-git-plugin-1.12.1.2064.jar|8cb0ce3aa259e6d3b55e9e8d65920f5d
